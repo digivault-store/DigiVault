@@ -53,3 +53,4 @@ Build with `npm run build`. Deploy the generated `dist/` directory to a static h
 
 ## Domain
 You can first deploy on a free hosting subdomain, test everything, and connect a custom domain later.
+DigiVault deployment setup
